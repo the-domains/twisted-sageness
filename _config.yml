@@ -1,0 +1,14 @@
+layout_spectrum: 0.8398258276283741
+typography_spectrum: 0.841371102258563
+color:
+  brandStrength: 0.12544409465044737
+  lightness: 0.9598502214066684
+  saturation: 0.929276509443298
+  rhythmicContrast: 0.10155244683846831
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: twisted sageness
