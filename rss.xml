@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[twisted sageness]]></title>
+        <description><![CDATA[twisted sageness]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 06:43:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AdvisorAnalyst.com - Actionable investment insights and commentary for financial professionals]]></title>
+            <description><![CDATA[<article><h1>AdvisorAnalyst.com - Actionable investment insights and commentary for financial professionals</h1><img src="http://advisoranalyst.advisoranalystgr.netdna-cdn.com/wp-content/uploads/2016/06/risk_factor_1-6-331x219.jpg"></article>]]></description>
+            <link>http://advisoranalyst.com</link>
+            <guid isPermaLink="false">28e9147b-13a0-4188-b16c-800a84eb67b8</guid>
+            <pubDate>Mon, 06 Jun 2016 02:37:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
